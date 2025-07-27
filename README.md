@@ -55,9 +55,9 @@
 ### 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your_linkedin_username/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/your_leetcode_username/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ankit-pandey-473197233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/ankitpandit022003/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://drive.google.com/file/d/1f32Tao5-eCCPU7bYgdWDzG5tEIM__Sml/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
