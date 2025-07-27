@@ -15,7 +15,7 @@
 
   </td>
   <td>
-    <img src="https://www.google.com/imgres?q=data%20analyst&imgurl=https%3A%2F%2Fwww.cambridgespark.com%2Fhs-fs%2Fhubfs%2FData%2520Analyst%2520(2).webp%3Fwidth%3D1050%26height%3D591%26name%3DData%2520Analyst%2520(2).webp&imgrefurl=https%3A%2F%2Fwww.cambridgespark.com%2Fblog%2Fdata-analyst-recruiters-pros-cons-alternatives&docid=WJqQH6t9TEYuvM&tbnid=xgB5cLFrpayqtM&vet=12ahUKEwi_z7zavd2OAxWAoa8BHQpfBwcQM3oECAwQAA..i&w=1050&h=591&hcb=2&ved=2ahUKEwi_z7zavd2OAxWAoa8BHQpfBwcQM3oECAwQAA" width="300px" alt="Ankit Working">
+    <img src="https://github.com/Devnkit/Devnkit/blob/main/Data%20analyst.jpeg?raw=true" width="300px" alt="Ankit Working">
   </td>
   </tr>
 </table>
@@ -23,21 +23,35 @@
 
 ---
 
-### 🛠️ Skills & Tools:
+### 🛠️ Skills & Tools
 
 <div align="center">
 
-  <!-- Data Analytics -->
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<!-- Row 1 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" title="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Microsoft Excel"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI"/>
 
-  <!-- Web & Scripting -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+<br><br>
+
+<!-- Row 2 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/chatgpt.png" title="ChatGPT"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" title="VS Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 
 </div>
 
@@ -52,7 +66,6 @@
 
 ---
 
-### 📌 Projects Spotlight:
 
 ### 📌 Projects Spotlight:
 
