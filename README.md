@@ -2,11 +2,24 @@
 <h3 align="center">🚀 Data Analyst | SQL Enthusiast | ChatGPT| Power BI | Web Developer</h3>
 
 ### 🧠 About Me:
-- 🎓 B.Tech in CSE with AI & ML specialization.
-- 📊 Skilled in **Data Analysis**, **Power BI**, **SQL**, **Excel**, **Python**.
-- 🧠 ChatGPT Prompt Engineering Expert – automation & AI for productivity.
-- 💻 Frontend enthusiast with knowledge of **HTML**, **CSS**, and **JavaScript**.
+
+<table>
+  <tr>
+    <td>
+
+- 🎓 B.Tech in CSE with AI & ML specialization.  
+- 📊 Skilled in **Data Analysis**, **Power BI**, **SQL**, **Excel**, **Python**.  
+- 🧠 ChatGPT Prompt Engineering Expert – automation & AI for productivity.  
+- 💻 Frontend enthusiast with knowledge of **HTML**, **CSS**, and **JavaScript**.  
 - 🛠️ I love converting raw data into actionable insights.
+
+  </td>
+  <td>
+    <img src="https://www.google.com/imgres?q=data%20analyst&imgurl=https%3A%2F%2Fwww.cambridgespark.com%2Fhs-fs%2Fhubfs%2FData%2520Analyst%2520(2).webp%3Fwidth%3D1050%26height%3D591%26name%3DData%2520Analyst%2520(2).webp&imgrefurl=https%3A%2F%2Fwww.cambridgespark.com%2Fblog%2Fdata-analyst-recruiters-pros-cons-alternatives&docid=WJqQH6t9TEYuvM&tbnid=xgB5cLFrpayqtM&vet=12ahUKEwi_z7zavd2OAxWAoa8BHQpfBwcQM3oECAwQAA..i&w=1050&h=591&hcb=2&ved=2ahUKEwi_z7zavd2OAxWAoa8BHQpfBwcQM3oECAwQAA" width="300px" alt="Ankit Working">
+  </td>
+  </tr>
+</table>
+
 
 ---
 
