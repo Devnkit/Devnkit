@@ -1,14 +1,5 @@
-<!-- Banner Image -->
-<img src="https://i.imgur.com/zquG0SH.png" width="100%" alt="Banner"/>
-
 <h1 align="center">Hi there 👋, I'm Ankit Pandey</h1>
-<h3 align="center">🚀 Data Analyst | SQL Enthusiast | ChatGPT Power User | Web Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat" alt="your_username" />
-</p>
-
----
+<h3 align="center">🚀 Data Analyst | SQL Enthusiast | ChatGPT| Power BI | Web Developer</h3>
 
 ### 🧠 About Me:
 - 🎓 B.Tech in CSE with AI & ML specialization.
@@ -42,8 +33,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devnkit&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnkit&theme=github-dark&hide_border=true" width="48%" />
 </div>
 
 ---
