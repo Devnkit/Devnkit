@@ -41,12 +41,14 @@
 
 ### 📌 Projects Spotlight:
 
+### 📌 Projects Spotlight:
+
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
+|--------|-------------|------------
 | [📊 HR Attrition Dashboard](#) | Power BI dashboard analyzing employee attrition trends. | Power BI, Excel |
-| [📈 Loan Data Predictor](#) | Predictive ML model with interactive dashboards. | Python, Streamlit, Excel |
-| [🌐 BookBin E-commerce Site](#) | Bookstore with payment gateway integration. | Flask, MySQL, Razorpay |
-| [🧠 ChatGPT Task Automation](#) | Automated daily tasks using custom prompts. | ChatGPT, Python |
+| [📈 YouTube Trending Video Analysis](https://github.com/Devnkit/YouTube-Trending-Video-Analysis) | Scraped and analyzed YouTube data to explore engagement patterns using EDA and visualizations. | Python, Pandas, Seaborn, Matplotlib |
+| [🏦 Bank Loan Analysis](https://drive.google.com/drive/folders/1_1jFC9bjXsA48z3ggGtmWg0AahLwZkHt) | Processed 38K+ loan records, created interactive Excel dashboards for approval risk insights. | MS Excel, Data Cleaning, Pivot Charts |
+| [💻 Relationship Workshop Website](https://devnkit.github.io/Relationship-Workshop/) | Built a fully responsive website for a college society with mobile-first UI design. | HTML5, CSS3 |
 
 ---
 
