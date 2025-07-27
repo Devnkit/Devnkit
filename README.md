@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ankit Pandey</h1>
-<h3 align="center">🚀 Data Analyst | SQL Enthusiast | ChatGPT| Power BI | Web Developer</h3>
+<h3 align="center">🚀 Data Analyst | SQL Enthusiast | ChatGPT| Power BI |Python </h3>
 
 ### 🧠 About Me:
 
