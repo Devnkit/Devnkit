@@ -15,8 +15,10 @@
 
   </td>
   <td>
-    <img src="https://github.com/Devnkit/Devnkit/blob/main/Data%20analyst.jpeg?raw=true" width="300px" alt="Ankit Working">
-  </td>
+  <img src="https://github.com/Devnkit/Devnkit/blob/main/Data%20analyst.jpeg?raw=true"
+       alt="Ankit Working"
+       style="max-width: 100%; height: auto; border-radius: 10px;">
+</td>
   </tr>
 </table>
 
@@ -53,15 +55,6 @@
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devnkit&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devnkit&theme=github-dark&hide_border=true" width="48%" />
 </div>
 
 ---
