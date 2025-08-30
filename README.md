@@ -66,6 +66,7 @@
 |--------|-------------|------------
 | [📊 HR Attrition Dashboard](https://github.com/Devnkit/HR-DASHBOARD) | Power BI dashboard analyzing employee attrition trends. | Power BI, Excel |
 | [📈 YouTube Trending Video Analysis](https://github.com/Devnkit/YouTube-Trending-Video-Analysis) | Scraped and analyzed YouTube data to explore engagement patterns using EDA and visualizations. | Python, Pandas, Seaborn, Matplotlib |
+| [🚚 Blinkit 10-Minute Delivery Analysis](https://github.com/Devnkit/Blinkit-10-Minute-Delivery-Feasibility-Analysis) | Created and analyzed synthetic delivery data (100+ orders) for Blinkit-style operations in the Delhi NCR region using Python, Pandas, and NumPy.| Python, Seaborn, Scikit Learn |
 | [🏦 Bank Loan Analysis](https://drive.google.com/drive/folders/1_1jFC9bjXsA48z3ggGtmWg0AahLwZkHt) | Processed 38K+ loan records, created interactive Excel dashboards for approval risk insights. | MS Excel, Data Cleaning, Pivot Charts |
 | [💻 Relationship Workshop Website](https://devnkit.github.io/Relationship-Workshop/) | Built a fully responsive website for a college society with mobile-first UI design. | HTML5, CSS3 |
 
